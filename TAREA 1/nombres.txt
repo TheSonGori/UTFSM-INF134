@@ -1,0 +1,20 @@
+Javiera Gutierrez | Paralelo: 202 | Rol: 202173626-3 |
+
+Se dedico de mantener un orden en el codigo, y que siempre fuera respetado. Se centro principalmente en la funcion main,
+y en los cilos que la componen.
+
+Diego Ortiz       | Paralelo: 203 | Rol: 202173526-7 |
+
+Verifico el correcto funcionamiento de las funciones del programa, haciendo cambios cuando fueran necesarios,
+o ideas para llegar a un resultado esperado. Valido que el return siempre lo esperando y corrigio los errores
+cuando aparecieron.
+
+
+Alan Ojeda        | Paralelo: 202 | Rol: 202173524-0 |
+
+Se encargo de crear structs que nos sirvieran para todo el codigo (siendo la mas importante Funcionarios[r]). Tambien ayudo
+con las funciones dando ideas, y aportando siempre.
+
+
+*Cabe recalcar que los 3 programamos en todo el codigo, dando ideas o cambios, lo que se escriba 
+abajo de cada nombre es solo una referencia donde se centro cada uno*
